@@ -107,6 +107,23 @@
                  "width":572,
                  "x":450.666666666667,
                  "y":833.333333333333
+                }, 
+                {
+                 "height":201.333333333333,
+                 "id":5,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"outdoor_meetingraum"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":261.333333333333,
+                 "x":190.666666666667,
+                 "y":28
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -172,7 +189,7 @@
          "y":0
         }],
  "nextlayerid":19,
- "nextobjectid":5,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
